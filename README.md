@@ -2,9 +2,9 @@
 
 ## Game Control
 
-Movement/t/tWASD / Direction key
+Movement &nbsp;&nbsp; WASD / Direction key
 
-Melee Atk&nbsp;Left click
+Melee Atk &nbsp;&nbsp;&nbsp; Left click
 
 Range Atk       Right Click
 
