@@ -24,7 +24,7 @@ Range attack require ammo which replenish one ammo by a fix period of time.
 
 Dash have invincible frames during active and can pass through enemy. Dash can be performed 2 time consecutively and have cooldown before you can do another 2 dashes.
 
-## SKill
+## Skill
 
 Burn => Apply burn status effect. (Deplete hitpoint over a fix period of time)
 
