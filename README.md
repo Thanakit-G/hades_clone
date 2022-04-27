@@ -2,19 +2,15 @@
 
 ## Game Control
 
-Movement &nbsp;&nbsp;&nbsp;&nbsp; WASD / Direction key
-
-Melee Atk &nbsp;&nbsp;&nbsp;&nbsp; Left click
-
-Range Atk &nbsp;&nbsp;&nbsp;&nbsp; Right Click
-
-Dash &nbsp;&nbsp;&nbsp;&nbsp; Spacebar
-
-Change Melee Skill &nbsp;&nbsp;&nbsp;&nbsp; 1
-
-Change Range Skill &nbsp;&nbsp;&nbsp;&nbsp; 2
-
-Change Dash skill &nbsp;&nbsp;&nbsp;&nbsp; 3
+| Input              | Action               |
+|--------------------|----------------------|
+| Movement           | WASD / Direction key |
+| Melee Atk          | Left click           |
+| Range Atk          | Right Click          |
+| Dash               | Spacebar             |
+| Change Melee Skill | 1                    |
+| Change Range Skill | 2                    |
+| Change Dash skill  | 3                    |
 
 *SKill:
 
