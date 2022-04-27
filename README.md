@@ -16,7 +16,7 @@ Please clone it properly with your git.
 | Change Range Skill | 2                    |
 | Change Dash skill  | 3                    |
 
-# Battle system
+## Battle system
 
 Melee attack create an explosion in front of your character that deal damage only to enemy and have a cooldown.
 
@@ -24,7 +24,7 @@ Range attack require ammo which replenish one ammo by a fix period of time.
 
 Dash have invincible frames during active and can pass through enemy. Dash can be performed 2 time consecutively and have cooldown before you can do another 2 dashes.
 
-# SKill
+## SKill
 
 Burn => Apply burn status effect. (Deplete hitpoint over a fix period of time)
 
