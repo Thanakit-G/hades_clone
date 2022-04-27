@@ -1,5 +1,7 @@
 # hades_clone
 
+*This project use large texture file so I push it via git lfs. Please clone it properly with your git. **Do not use "Download Zip" button**.
+
 ## Game Control
 
 | Input              | Action               |
