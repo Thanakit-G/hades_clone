@@ -14,11 +14,11 @@
 
 *SKill:
 
-Burn => Apply burn status effect. (Deplete hitpoint in a fix amount of time)
+Burn => Apply burn status effect. (Deplete hitpoint over a fix period of time)
 
 Slow => Apply slow status effect. (Decrease movement speed by 50 percent)
 
-Jolt => Apply jolt status effect. (Deplete hitpoint of itself and fellow enemies near it in a fix amount of time)
+Jolt => Apply jolt status effect. (Deplete hitpoint of itself and fellow enemies near it over a fix period of time)
 
 ## Window Build
 
