@@ -1,6 +1,8 @@
 # hades_clone
 
-*This project use large texture file so I push it via git lfs. Please clone it properly with your git. **Do not use "Download Zip" button**.
+This project use large texture file so I push it via git lfs. 
+Please clone it properly with your git. 
+**Do not use "Download Zip" button.**
 
 ## Game Control
 
@@ -14,7 +16,15 @@
 | Change Range Skill | 2                    |
 | Change Dash skill  | 3                    |
 
-*SKill:
+# Battle system
+
+Melee attack create an explosion in front of your character that deal damage only to enemy and have a cooldown.
+
+Range attack require ammo which replenish one ammo by a fix period of time.
+
+Dash have invincible frames during active and can pass through enemy. Dash can be performed 2 time consecutively and have cooldown before you can do another 2 dashes.
+
+# SKill
 
 Burn => Apply burn status effect. (Deplete hitpoint over a fix period of time)
 
